@@ -164,11 +164,5 @@ class TestSimpleMode {
 		
 		assertNotNull("", game.winner);
 	}
-	
-	// Acceptance criteria 8.4
-	@Test
-	public void TestAutoSimplePlayerStartFirst() {
-		
-	}
 
 }
